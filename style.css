@@ -1,0 +1,23 @@
+body {
+  font-family: Roboto;
+  background-color:#D2D2CF;
+}
+
+/* unvisited link */
+a:link {
+  color: #364B60;
+}
+
+/* visited link */
+a:visited {
+  color: #364B60;
+}
+
+/* mouse over link */
+a:hover {
+  color: #364B60;
+}
+
+/* selected link */
+a:active {
+  color: #364B60;
